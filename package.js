@@ -12,7 +12,7 @@ Package.onUse((api) => {
   api.use([
     'ecmascript',
     'universe:i18n@1.4.1',
-    'react-meteor-data@0.2.5',
+    'react-meteor-data@2.0.1',
     'service-configuration',
     'accounts-base',
   ]);
